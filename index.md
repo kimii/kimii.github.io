@@ -30,4 +30,4 @@ I am a graduate student in network research. The main points of interest include
 - [Ubuntu 18.04 新功能、发行日期和更多信息](https://linux.cn/article-9183-1.html)
 
 ## Contack
-- Email: maoningchan@gamil.com
+- Email: maoningchan@gmail.com
